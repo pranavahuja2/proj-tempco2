@@ -1,0 +1,88 @@
+,Date,Forest Area,Temperature,CO2
+0,1992,"1330    4.220757e+06
+Name: F1992, dtype: float64","221    0.184
+Name: F1992, dtype: float64",356.54583333333335
+1,1993,"1330    4.212918e+06
+Name: F1993, dtype: float64","221    0.348
+Name: F1993, dtype: float64",357.21583333333325
+2,1994,"1330    4.205080e+06
+Name: F1994, dtype: float64","221    0.507
+Name: F1994, dtype: float64",358.9591666666667
+3,1995,"1330    4.197241e+06
+Name: F1995, dtype: float64","221    0.835
+Name: F1995, dtype: float64",360.9683333333333
+4,1996,"1330    4.189403e+06
+Name: F1996, dtype: float64","221    0.355
+Name: F1996, dtype: float64",362.74333333333334
+5,1997,"1330    4.181565e+06
+Name: F1997, dtype: float64","221    0.656
+Name: F1997, dtype: float64",363.8766666666666
+6,1998,"1330    4.173726e+06
+Name: F1998, dtype: float64","221    0.993
+Name: F1998, dtype: float64",366.84
+7,1999,"1330    4.165888e+06
+Name: F1999, dtype: float64","221    0.783
+Name: F1999, dtype: float64",368.53999999999996
+8,2000,"1330    4.158050e+06
+Name: F2000, dtype: float64","221    0.728
+Name: F2000, dtype: float64",369.7075
+9,2001,"1330    4.152876e+06
+Name: F2001, dtype: float64","221    0.834
+Name: F2001, dtype: float64",371.31916666666666
+10,2002,"1330    4.147703e+06
+Name: F2002, dtype: float64","221    1.021
+Name: F2002, dtype: float64",373.45250000000004
+11,2003,"1330    4.142530e+06
+Name: F2003, dtype: float64","221    0.893
+Name: F2003, dtype: float64",375.98333333333335
+12,2004,"1330    4137356.491
+Name: F2004, dtype: float64","221    0.913
+Name: F2004, dtype: float64",377.69833333333344
+13,2005,"1330    4.132183e+06
+Name: F2005, dtype: float64","221    1.095
+Name: F2005, dtype: float64",379.98333333333335
+14,2006,"1330    4.127010e+06
+Name: F2006, dtype: float64","221    0.998
+Name: F2006, dtype: float64",382.09083333333336
+15,2007,"1330    4.121837e+06
+Name: F2007, dtype: float64","221    1.195
+Name: F2007, dtype: float64",384.0249999999999
+16,2008,"1330    4.116663e+06
+Name: F2008, dtype: float64","221    0.935
+Name: F2008, dtype: float64",385.83166666666665
+17,2009,"1330    4.111490e+06
+Name: F2009, dtype: float64","221    0.957
+Name: F2009, dtype: float64",387.6425
+18,2010,"1330    4106316.944
+Name: F2010, dtype: float64","221    1.219
+Name: F2010, dtype: float64",390.1016666666667
+19,2011,"1330    4.101823e+06
+Name: F2011, dtype: float64","221    0.921
+Name: F2011, dtype: float64",391.85083333333336
+20,2012,"1330    4.097333e+06
+Name: F2012, dtype: float64","221    1.074
+Name: F2012, dtype: float64",394.05583333333334
+21,2013,"1330    4.092844e+06
+Name: F2013, dtype: float64","221    1.016
+Name: F2013, dtype: float64",396.7375
+22,2014,"1330    4.088354e+06
+Name: F2014, dtype: float64","221    1.053
+Name: F2014, dtype: float64",398.8125
+23,2015,"1330    4083863.716
+Name: F2015, dtype: float64","221    1.412
+Name: F2015, dtype: float64",401.0116666666667
+24,2016,"1330    4.080600e+06
+Name: F2016, dtype: float64","221    1.66
+Name: F2016, dtype: float64",404.41249999999997
+25,2017,"1330    4.073753e+06
+Name: F2017, dtype: float64","221    1.429
+Name: F2017, dtype: float64",406.7583333333334
+26,2018,"1330    4.068920e+06
+Name: F2018, dtype: float64","221    1.29
+Name: F2018, dtype: float64",408.715
+27,2019,"1330    4063839.32
+Name: F2019, dtype: float64","221    1.444
+Name: F2019, dtype: float64",411.6541666666667
+28,2020,"1330    4058927.05
+Name: F2020, dtype: float64","221    1.711
+Name: F2020, dtype: float64",414.2383333333333
